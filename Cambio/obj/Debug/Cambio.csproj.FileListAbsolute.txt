@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2015\Projects\Cambio\Cambio\bin\Debug\Cambio.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Cambio\Cambio\obj\Debug\Cambio.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Cambio\Cambio\obj\Debug\Cambio.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\Cambio\Cambio\obj\Debug\Cambio.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\Cambio\Cambio\obj\Debug\Cambio.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\Cambio\Cambio\bin\Debug\Cambio.exe
+c:\users\user\documents\visual studio 2015\Projects\Cambio\Cambio\bin\Debug\Cambio.pdb
+c:\users\user\documents\visual studio 2015\Projects\Cambio\Cambio\obj\Debug\Cambio.exe
+c:\users\user\documents\visual studio 2015\Projects\Cambio\Cambio\obj\Debug\Cambio.pdb
